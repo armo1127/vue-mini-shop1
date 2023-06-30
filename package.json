@@ -4,8 +4,9 @@
   "description": "Mini Online Shop Built With Vue JS",
   "main": "gulpfile.js",
   "dependencies": {
-    "vue": "^1.0.21",
-    "babelify": "^7.2.0"
+    "babelify": "^7.2.0",
+    "element-ui": "^2.15.13",
+    "vue": "^1.0.21"
   },
   "devDependencies": {
     "vueify": "^8.3.6",
